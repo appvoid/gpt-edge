@@ -5,7 +5,7 @@ This is a repo that makes Large Language Models available for everyone who would
 
 ### Available binaries
 
-- [x] gpt-2
+- [x] [gpt-2](https://github.com/appvoid/gpt-edge/releases/download/gpt-2/gpt-2.exe)
 - [ ] gpt-j
 - [ ] llama
 
