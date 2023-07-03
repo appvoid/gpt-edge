@@ -1,7 +1,6 @@
 # gpt-edge
 Large Language Models at one click
-
-This is a repo that makes Large Language Models available for everyone who would like to experiment with this new emergent technology. The project is possible thanks to GGML and Enigma Virtual Box.
+This is a repo that makes Large Language Models available for everyone who would like to experiment with this new emergent technology. The project is possible thanks to GGML and Enigma Virtual Box. If you have used realesrgan-vulkan binaries you will love this project!
 
 ### Available binaries
 
