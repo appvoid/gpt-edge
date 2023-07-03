@@ -5,6 +5,9 @@ This is a repo makes Large Language Models available for everyone who would like
 
 ### Available models
 
-- [ ] gpt-2
+- [x] gpt-2
 - [ ] gpt-j
 - [ ] llama
+
+### Keep in mind that...
+It's important to note that I'm releasing the base models, which are not finetuned nor aligned in any way. So use with caution for user-facing apps.
