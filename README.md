@@ -9,7 +9,7 @@ This is a repo that makes Large Language Models available for everyone who would
 
 ### Usage
 On your terminal, type this:
-```./gpt-2.exe -p "To make a pizza you need the following ingredients:"```
+```./gpt-2.exe -p "Your prompt goes here"```
 
 ### Basic parameters
 ```
