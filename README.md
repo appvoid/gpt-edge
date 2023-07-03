@@ -7,12 +7,15 @@ This is a repo that makes Large Language Models available for everyone who would
 - [ ] gpt-j
 - [ ] llama
 
+### Usage
+On your terminal, type this:
+```./gpt-2.exe -p "To make a pizza you need the following ingredients:"```
+
 ### Basic parameters
 ```
-# taking gpt-2 binary as example
--m | [optional] this is the name of the ggml model from the current model's family you would like to use, for example, gpt-2-124m.bin
+-p | this is the prompt that the model will receive
 -t | number of total cpus you want to use, never use more than you have or will get slow
---temp | this is the "creativity" of the model, a value near zero means repetition, a value near to one means off-topic.
+--temp | "creativity" of the model, value near zero means repetition, value near to one means off-topic
 -h | this will show a help message
 ```
 
