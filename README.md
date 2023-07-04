@@ -17,7 +17,7 @@ If the model is too big, the one with least size is used, if the biggest of the 
 On your terminal, type this:
 ```./gpt-2.exe -p "Your prompt goes here"```
 
-### Basic parameters
+### Basics 
 ```
 -p | this is the prompt that the model will receive
 -t | number of total cpus you want to use, never use more than you have or will get slow
