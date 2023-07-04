@@ -20,4 +20,4 @@ On your terminal, type this:
 ```
 
 ### Keep in mind that...
-It's important to note that I'm releasing the base models, which are not finetuned nor aligned in any way. So use with caution for user-facing apps. As long as you are using Windows 10 or above I think you should be fine.
+If the app takes too long, don't worry, it usually happens the first time, the next time will load faster. It's important to note that I'm releasing the base models, which are not finetuned nor aligned in any way. So use with caution for user-facing apps. As long as you are using Windows 10 or above I think you should be fine.
