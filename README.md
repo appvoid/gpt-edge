@@ -4,13 +4,14 @@ This is a repo that makes Large Language Models available for everyone who would
 - Usefulness
 - Size
 
-If the model is too big, the one with least size is used, if the biggest of the family is less than 4 GB, it will be released as the default. Bigger sizes on models tends to perform pretty slow on consumer machines hence it would break the purpose of this repo.
+If the model is too big, the one with least size is used, if the biggest of the family is less than 4 GB, it will be released as the default. Bigger sizes on models tends to perform pretty slow on consumer machines hence it would break the purpose of this repo. So to summarize, you'll always get the best lightweight model possible from the family.
 
-### Available binaries
+### Binaries Roadmap
 
 - [x] [gpt-2](https://github.com/appvoid/gpt-edge/releases/download/gpt-2/gpt-2.exe)
-- [ ] gpt-j
+- [x] [gpt-j](https://github.com/appvoid/gpt-edge/releases/tag/gpt-j)
 - [ ] llama
+- [ ] pajama
 
 ### Usage
 On your terminal, type this:
