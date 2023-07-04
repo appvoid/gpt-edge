@@ -1,5 +1,5 @@
 # gpt-edge
-This is a repo that makes Large Language Models available for everyone who would like to experiment with this new emergent technology. If you have used realesrgan-vulkan binaries you will love this project! Currently supporting Windows 10. Releases are made with the following criteria:<br>
+This is a repo that makes Large Language Models available for everyone who would like to experiment with this new emergent technology. If you have used realesrgan-vulkan binaries you will love this project! Currently supporting Windows 10. This project serves the solely purpose of testing some famous language models, not all of them will be here. Releases are made with the following criteria:<br>
 - Popularity
 - Usefulness
 - Size
