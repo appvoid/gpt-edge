@@ -10,8 +10,7 @@ If the model is too big, the one with least size is used, if the biggest of the 
 
 - [x] [gpt-2](https://github.com/appvoid/gpt-edge/releases/download/gpt-2/gpt-2.exe)
 - [x] [gpt-j](https://github.com/appvoid/gpt-edge/releases/tag/gpt-j)
-- [ ] llama
-- [ ] pajama
+- [ ] redpajama
 
 ### Usage
 On your terminal, type this:
